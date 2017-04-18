@@ -133,7 +133,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="text-center">
-                        <h2>Strong  <span class="highlight">fundamentals</span> leads to success</h2>					
+                        <h2>Strong  <span class="highlight">fundamentals</span> leads to success !!!!!!</h2>					
                         <!--<p>leads to cope up with any technology</p>-->
                     </div>
                 </div>		
